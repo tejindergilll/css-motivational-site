@@ -1,0 +1,22 @@
+*{
+ background-color: black;
+}
+#photo{
+    border:5px solid white;
+    width: 100%;
+}
+h1{
+    font-family: 'Ysabeau Infant', sans-serif;
+    text-transform: capitalize;
+    font-size: 3rem;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 60px;
+    text-align: center;
+    text-align: center;
+    color:white
+}
+
+
